@@ -1,0 +1,5 @@
+{
+  "name": "Anime Screenshot Analyzer",
+  "description": "An application that allows users to upload anime screenshots in bulk. It uses AI to identify the anime, gather details like plot, genre, streaming availability in Canada, and community ratings from the web, and then exports this information into a downloadable CSV file.",
+  "requestFramePermissions": []
+}
